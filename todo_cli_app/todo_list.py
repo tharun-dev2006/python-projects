@@ -1,3 +1,9 @@
+# Project: CLI To-Do List Manager
+# Author: Tharun
+# Description: A command line task management application that allows users
+#              to add, view, and delete daily tasks using a menu-driven interface.
+# Concepts Used: loops, functions, lists, conditional statements, user input
+
 TASK_FILE = "tasks.txt"
 
 
