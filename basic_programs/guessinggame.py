@@ -1,3 +1,9 @@
+# Project: Number Guessing Game
+# Author: Tharun
+# Description: A command line game where the user tries to guess
+#              a randomly generated number with multiple attempts.
+
+
 import random
 
 a = random.randint(1,10)

@@ -1,3 +1,9 @@
+# Project: Prime Number Checker
+# Author: Tharun
+# Description: A Python program that checks whether a given number
+#              is prime using loop-based divisibility logic.
+
+
 a = int(input("Enter a number to check if it's prime: "))
 
 is_prime = True
